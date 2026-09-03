@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="11062822-34df-45ce-9760-e07eccda98ae" name="Changes" comment="add : file">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Mathematics.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Mathematics.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/claudeCodeTabState.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="EmbeddingIndexingInfo">
+    <option name="cachedIndexableFilesCount" value="116" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "XaicuL"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/XaicuL/Mathematics.git",
+    "accountId": "dde88cf4-c005-45fe-b96b-e163311b6459"
+  }
+}]]></component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.000000000000004" />
+      <entry key="S2" value="1.0004091790889096" />
+      <entry key="S5" value="1.0667350982099686" />
+      <entry key="S10" value="1.3651908719312973" />
+      <entry key="S30" value="2.134544841456356" />
+      <entry key="S60" value="2.506333178385405" />
+      <entry key="M2" value="2.7356986337697355" />
+      <entry key="M5" value="2.8897634225596285" />
+      <entry key="M10" value="2.9441003090419406" />
+      <entry key="M15" value="2.962557700339031" />
+      <entry key="M30" value="2.981190375632601" />
+      <entry key="H1" value="2.990572964498467" />
+      <entry key="H2" value="2.99528091328012" />
+      <entry key="H4" value="2.997639062751925" />
+      <entry key="D1" value="2.9996063167232268" />
+      <entry key="W1" value="2.999943754785524" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="0.0" />
+      <entry key="S5" value="0.0" />
+      <entry key="S10" value="0.0" />
+      <entry key="S30" value="0.0" />
+      <entry key="S60" value="0.0" />
+      <entry key="M2" value="0.0" />
+      <entry key="M5" value="0.0" />
+      <entry key="M10" value="0.0" />
+      <entry key="M15" value="0.0" />
+      <entry key="M30" value="0.0" />
+      <entry key="H1" value="0.0" />
+      <entry key="H2" value="0.0" />
+      <entry key="H4" value="0.0" />
+      <entry key="D1" value="0.0" />
+      <entry key="W1" value="0.0" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.9659363289248455" />
+      <entry key="MS500" value="0.9930924954370397" />
+      <entry key="S2" value="0.9986725963726555" />
+      <entry key="S5" value="1.065670472257187" />
+      <entry key="S10" value="1.363798025172494" />
+      <entry key="S30" value="2.133325443112042" />
+      <entry key="S60" value="2.5055392252467787" />
+      <entry key="M2" value="2.735244632616601" />
+      <entry key="M5" value="2.889566473217555" />
+      <entry key="M10" value="2.9439991252569926" />
+      <entry key="M15" value="2.9624896308022546" />
+      <entry key="M30" value="2.981156031063498" />
+      <entry key="H1" value="2.990555714204158" />
+      <entry key="H2" value="2.995272268560186" />
+      <entry key="H4" value="2.9976347354899455" />
+      <entry key="D1" value="2.9996055948313125" />
+      <entry key="W1" value="2.9999436516414058" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 7
+}]]></component>
+  <component name="ProjectId" id="3IkisdIlCY6208pEXDWenUUc3z1" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.google.cloudcode.ide_session_index": "20260902_0001",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "main",
+    "junie.onboarding.icon.badge.shown": "true",
+    "last_opened_file_path": "/Users/jeonhyunjun/Dev/Mathematics",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "to.speed.mode.migration.done": "true"
+  }
+}]]></component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="11062822-34df-45ce-9760-e07eccda98ae" name="Changes" comment="" />
+      <created>1764424696063</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1764424696063</updated>
+      <workItem from="1764424698188" duration="2151000" />
+      <workItem from="1764428046188" duration="864000" />
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="fix : file" />
+    <MESSAGE value="add : file" />
+    <option name="LAST_COMMIT_MESSAGE" value="add : file" />
+  </component>
+</project>
